@@ -78,7 +78,7 @@
 -- Encryption
 -- Anonymous communication
 -- Secure computation
-- Monetary defense
--- Bitcoin
--- Debt based digital bearer certificates
--- Financial Privacy
+* Monetary defense
+  ** Bitcoin
+  ** Debt based digital bearer certificates
+  ** Financial Privacy
