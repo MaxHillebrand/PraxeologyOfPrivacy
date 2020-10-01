@@ -1,5 +1,6 @@
 # Structure
 
+```
 - [Abstract](README.md)
 - Preface
 
@@ -69,7 +70,7 @@
 
 - Meatspace defense
 -- Weapons
--- Armor/
+-- Armor
 -- Coordinated Individual militia
 -- Vonu and Nomadism
 -- Citadels
@@ -78,7 +79,8 @@
 -- Encryption
 -- Anonymous communication
 -- Secure computation
-* Monetary defense
-  ** Bitcoin
-  ** Debt based digital bearer certificates
-  ** Financial Privacy
+- Monetary defense
+-- Bitcoin
+-- Debt based digital bearer certificates
+-- Financial Privacy
+```
