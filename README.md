@@ -11,7 +11,7 @@ This, shall be the single axiom, the assumption on top of which a monumental con
 
 ## Contributions
 
-This work is published [free under the MIT License](/LICENSE).
+This work is published [free under the MIT License](/LICENSE.md).
 The entire working progress and released versions will be available free and gratis in cyberspace.
 Contributors to the venture are very much welcome!
 At this early stage, conceptual review and feedback on the methodological approach are vitally important.
