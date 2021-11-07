@@ -16,4 +16,4 @@ The entire working progress and released versions will be available free and gra
 Contributors to the venture are very much welcome!
 At this early stage, conceptual review and feedback on the methodological approach are vitally important.
 Pull requests to fix typos, polish grammar and smoothen prose will be swiftly reviewed and thankfully merged.
-Financial sponsorship and support at different reward levels are gratefully accepted at [towardsliberty.com](https://towardsliberty.com) | [onion service](http://7a5eaokoytoqpp6jgklwg5kevzltv2cclwzbyvakyzaeghe4rqipe7ad.onion).
+[Financial sponsorship](https://towardsliberty.com/pop) and support at different reward levels are gratefully accepted at [towardsliberty.com](https://towardsliberty.com) | [onion service](http://7a5eaokoytoqpp6jgklwg5kevzltv2cclwzbyvakyzaeghe4rqipe7ad.onion).
