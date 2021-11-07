@@ -56,7 +56,7 @@
 - State of barter
 - Emergence of money
 - Use case of money
--- Unit of Exchange
+-- Medium of Exchange
 -- Store of Value
 -- Unit of Account
 - Estimating future customer demand
@@ -64,6 +64,17 @@
 - Exchanging goods and services for profit
 - Sound money
 - Bitcoin
+-- Axiom of Resistance
+-- Nodes
+--- definition
+--- verification
+--- enforcement
+-- Miners
+--- transaction relay
+--- block production
+--- block propogation
+-- Issuance policy
+-- Script
 - Fiat money
 
 ## Part IV: Strategies of Individual Liberation
@@ -81,6 +92,12 @@
 -- Secure computation
 - Monetary defense
 -- Bitcoin
+--- CoinJoin
+--- CoinSwap
+--- Payment Channels
+--- Lightning Network
+--- Sidechains
+--- Discrete Log Contracts
 -- Debt based digital bearer certificates
 -- Financial Privacy
 ```
