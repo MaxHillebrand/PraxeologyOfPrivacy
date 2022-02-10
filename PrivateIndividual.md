@@ -55,3 +55,7 @@ These are cardinal value scales, it is an absolute rank ordering. We cannot say 
 ## Choice
 
 Choice, then, is at the core of what it means to be human. With numerous problems, but limited scarce resources, humans must inevitably make a value judgement and choose one out of many. Every single action, is the proof of that choice, and it implies the infinite number of alternatives that have been sacrificed.
+
+## Judgement
+
+Judgement is the other side of choice. After the act, individuals can judge themselves regarding weather or not their allocation of means has lead to their ends being achieved. 

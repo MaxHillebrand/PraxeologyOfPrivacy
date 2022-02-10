@@ -40,7 +40,7 @@ Pull requests to fix typos, polish grammar and smoothen prose will be swiftly re
 -- Non-scarcity
 - Subjective marginal preference
 - Choice
--- Opportunity cost
+- Judgment
 - Individual action
 -- venturing into the dark void
 - Time
