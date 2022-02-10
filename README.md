@@ -33,10 +33,11 @@ Pull requests to fix typos, polish grammar and smoothen prose will be swiftly re
 ## [Part I: The Theory of the Private Individual](PrivateIndividual.md)
 
 - Human Axioms
+- Uneasiness
+- Ends
+- Creative entrepreneurial spark
 - Scarcity
 - Non-scarcity
-- State of uneasiness
-- Creative entrepreneurial spark
 - Individual marginal preference scale
 - Choice
 -- Opportunity cost
