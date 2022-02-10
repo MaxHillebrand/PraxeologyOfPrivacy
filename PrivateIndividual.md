@@ -18,8 +18,9 @@ Similarly to the action axiom, a claim that one cannot argue would in it of itse
 
 ## Uneasiness
 
-Humans are in a constant state of uneasiness. Or in other words, humans always have problems. Just one example is the physical requirement to suply the body with food and energy to continue to function. But regardless of how many problems have already been solved, there are always more things that can be improved, there is always more potential. There is the universal tendency towards entropy and decay.
+Humans are in a constant state of uneasiness. Or in other words, humans always have problems. Just one example is the physical requirement to supply the body with food and energy to continue to function. But regardless of how many problems have already been solved, there are always more things that can be improved, there is always more potential. There is the universal tendency towards entropy and decay.
 
+We can, however, rank order all our current points of uneasiness, by taking two problems, and asking which of them is worse. When doing this with all current problems, we end up with a ordered list of the most serious problem on the top, and each following being less important. This is a cardinal value scale of misery, we cannot say by how much "units" one problem is worse than the other, but only that one is generally worse than the other. This ordering of problems into a hierarchy is helpful in finding out what the most pressing problem is, the one that if alleviated, the uneasiness would reduce the most.
  
 
 ## Scarcity
