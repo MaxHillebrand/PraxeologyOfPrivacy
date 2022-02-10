@@ -38,7 +38,7 @@ Pull requests to fix typos, polish grammar and smoothen prose will be swiftly re
 - Means
 -- Scarcity
 -- Non-scarcity
-- Individual marginal preference scale
+- Subjective marginal preference
 - Choice
 -- Opportunity cost
 - Individual action

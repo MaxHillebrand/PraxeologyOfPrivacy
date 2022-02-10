@@ -20,8 +20,6 @@ Similarly to the action axiom, a claim that one cannot argue would in it of itse
 
 Humans are in a constant state of uneasiness. Or in other words, humans always have problems. Just one example is the physical requirement to supply the body with food and energy to continue to function. But regardless of how many problems have already been solved, there are always more things that can be improved, there is always more potential. There is the universal tendency towards entropy and decay.
 
-Each individual can, subjectively, rank order all his current points of uneasiness, by taking two problems, and asking which of them is worse. When doing this with all current problems, we end up with a ordered list of the most serious problem on the top, and each following being less important. This is a cardinal value scale of misery, we cannot say by how much "units" one problem is worse, but only that one is generally worse than the other. This ordering of problems into a hierarchy is helpful in finding out what the most pressing problem is, the one that if alleviated, the uneasiness would reduce the most.
-
 ## Ends
 
 The general goal of humans is to alleviate uneasiness, to apply the solutions to the problems. This requires the creative spark to imagining a future where the problem is in fact solved.
@@ -40,4 +38,14 @@ Physical resources are scarce, as they can only be in one place at any given tim
 
 There are however, non-scarce means that can be utilized for as many tasks as desired, simultaneously and at infinite scale. Thus there is no question of for which task to apply the good, the good is available for any possible task. No opportunity cost, and no sacrifice.
 
-Information, patterns and ideas are non-scarce, they can be copied ad infinitum without taking away the use from anyone.
+Information, patterns and ideas are non-scarce, they can be copied ad infinitum without taking away the use from anyone. The individual can continuously use the same strategy and information across solving different problems. He does not "forget" a piece of information after using it.
+
+## Subjective marginal preference
+
+Each individual can, subjectively, rank order all his current points of uneasiness, by taking two problems, and asking which of them is worse. When doing this with all current problems, we end up with a ordered list of the most serious problem on the top, and each following being less important.
+
+Likewise, individuals can rank order their subjective value for any mean, based on which better removes the uneasiness. This judgement is possible for goods in the same solution category, like a hungry man preferring steak over bananas. But this also works across categories, a man who is both hungry and thirsty will still prefer one over the other,  water or steak. 
+
+These are cardinal value scales, it is an absolute rank ordering. We cannot say by how much "units" one problem is worse, but only that one is generally worse than the other. This ordering of problems and means into a hierarchy is helpful in finding out what the most pressing problem is, the one that if alleviated, the uneasiness would reduce the most.
+
+
