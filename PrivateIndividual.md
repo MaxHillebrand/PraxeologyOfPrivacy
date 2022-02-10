@@ -34,6 +34,10 @@ Scarce means can only be utilized for one task at any given time. If there are m
 
 Physical resources are scarce, as they can only be in one place at any given time.
 
+If there are not enough scarce goods available to satisfy all the ends, then these goods must be economized. They must be allocated carefully, because if the good is applied to a less important problem, then it will not be available for solving the more important one. 
+
+On the other hand, if the scarce good is abundant, then it is not subject to economization and can be considered a non-restraint for action. For example, air is generally abundant on earth's atmosphere, thus there is no need to economize how much air to breath in. However, once underwater and with only a small bottle of pressurized air, the actually scarce resource will be consumed quickly, and thus the actor has to economize how to use the resource.
+
 ### Non-Scarcity
 
 There are however, non-scarce means that can be utilized for as many tasks as desired, simultaneously and at infinite scale. Thus there is no question of for which task to apply the good, the good is available for any possible task. No opportunity cost, and no sacrifice.
@@ -48,4 +52,6 @@ Likewise, individuals can rank order their subjective value for any mean, based 
 
 These are cardinal value scales, it is an absolute rank ordering. We cannot say by how much "units" one problem is worse, but only that one is generally worse than the other. This ordering of problems and means into a hierarchy is helpful in finding out what the most pressing problem is, the one that if alleviated, the uneasiness would reduce the most.
 
+## Choice
 
+Choice, then, is at the core of what it means to be human. With numerous problems, but limited scarce resources, humans must inevitably make a value judgement and choose one out of many. Every single action, is the proof of that choice, and it implies the infinite number of alternatives that have been sacrificed.
