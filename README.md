@@ -35,9 +35,9 @@ Pull requests to fix typos, polish grammar and smoothen prose will be swiftly re
 - Human Axioms
 - Uneasiness
 - Ends
-- Creative entrepreneurial spark
-- Scarcity
-- Non-scarcity
+- Means
+-- Scarcity
+-- Non-scarcity
 - Individual marginal preference scale
 - Choice
 -- Opportunity cost

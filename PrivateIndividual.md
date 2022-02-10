@@ -25,9 +25,19 @@ Each individual can, subjectively, rank order all his current points of uneasine
 ## Ends
 
 The general goal of humans is to alleviate uneasiness, to apply the solutions to the problems. This requires the creative spark to imagining a future where the problem is in fact solved.
- 
 
-## Scarcity
+## Means
 
-Actors utilize means to achieve their ends. Scarce means can only be utilized for one task at any given time. If there are multiple different tasks that all require the same mean, then the actor cannot satisfy all goals at the same time, he must choose one goal, and thus sacrifice the achievement of all other possible goals. Out of scarcity emerges a potential conflict of how to allocate the scarce resources available. 
+Actors utilize means to achieve their ends. Means are the resources required in order to remove uneasiness. Without utilization of the means, the problem cannot be solved.
 
+### Scarcity
+
+Scarce means can only be utilized for one task at any given time. If there are multiple different tasks that all require the same mean, then the actor cannot satisfy all goals at the same time, he must choose one goal, and thus sacrifice the achievement of all other possible goals. Out of scarcity emerges a potential conflict of how to allocate the scarce resources available. 
+
+Physical resources are scarce, as they can only be in one place at any given time.
+
+### Non-Scarcity
+
+There are however, non-scarce means that can be utilized for as many tasks as desired, simultaneously and at infinite scale. Thus there is no question of for which task to apply the good, the good is available for any possible task. No opportunity cost, and no sacrifice.
+
+Information, patterns and ideas are non-scarce, they can be copied ad infinitum without taking away the use from anyone.
