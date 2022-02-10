@@ -15,7 +15,7 @@
 ## Part I: The Theory of the Private Individual
 
 - [Human Axioms](Axiom.md)
-- Scarcity
+- [Scarcity](Scarcity.md)
 - Non-scarcity
 - State of uneasiness
 - Creative entrepreneurial spark
