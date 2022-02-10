@@ -7,16 +7,14 @@
 ## Part 0: Introduction
 
 - Introduction
-- On the Importance of Methodology
+- [On the Importance of Methodology](Methodology.md)
 - Definition of Praxeology
 - [Free License Publication](LICENSE.md)
 - Contributions
 
 ## Part I: The Theory of the Private Individual
 
-- Axiomatic first principles
--- Individualism
--- Collectivism
+- [Human Axioms](Axiom.md)
 - Scarcity
 - Non-scarcity
 - State of uneasiness
