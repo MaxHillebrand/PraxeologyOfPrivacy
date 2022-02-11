@@ -66,6 +66,18 @@ Time then, at least perceived by the individual, is experienced within every act
 
 Memory of past actions and their results guide current moment decision making. Previous successful application of means to achieve ends are positively remembered and attempted again. Whereas those means that lead to a failure are noted for their disutility.
 
-Yet every act presupposes the imagination of future scenarios, with consideration of how the individual actor can causally influence these.
+Yet every act presupposes the imagination of future scenarios, with consideration of how the individual actor can causally influence these. Precisely because of this plentiful human imagination, the future becomes uncertain. Out of all the possible dreams, which single one will manifest as actuality?
 
-However, once the act is done, there is no turning it back, time has passed irreversibly. 
+Once the act is done, there is no turning it back, time has passed irreversibly. Time travel is not possible, neither going back in time and choosing a different action, nor going forward in time to see the actual result of potential actions.
+
+## Time Preference
+
+The total time of individual human existence is limited, and the future is uncertain. It is very well possible to die in the very next instance, and the chances of death increase the longer we predict in the future.
+
+Therefor it is reasonable to assume, that all things equal, individuals prefer satisfaction of their ends sooner, rather than later. The extend of how far gratification can be delayed is described as time preference. The longer an individual can delay satisfaction, the lower his time preference.
+
+The extend of time preference varies across individual, and there it is not objectively better or worse to have a higher or lower time preference. This is a human preference, which is subjective to every actor, and thus no qualitative judgement can be made.
+
+However, any actor displays at least a positive time preference. Every act leads to a realized satisfaction of ends, not deferred to the future. Thus only a non-actor can be considered to have a zero time preference.
+
+
