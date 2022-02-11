@@ -58,4 +58,14 @@ Choice, then, is at the core of what it means to be human. With numerous problem
 
 ## Judgement
 
-Judgement is the other side of choice. After the act, individuals can judge themselves regarding weather or not their allocation of means has lead to their ends being achieved. 
+Judgement is the other side of choice. After the act, individuals can judge themselves regarding weather or not their allocation of means has lead to their ends being achieved.
+
+## Time
+
+Time then, at least perceived by the individual, is experienced within every action. There is a clear differentiation in the timeline of "before" and "after" the act. 
+
+Memory of past actions and their results guide current moment decision making. Previous successful application of means to achieve ends are positively remembered and attempted again. Whereas those means that lead to a failure are noted for their disutility.
+
+Yet every act presupposes the imagination of future scenarios, with consideration of how the individual actor can causally influence these.
+
+However, once the act is done, there is no turning it back, time has passed irreversibly. 
