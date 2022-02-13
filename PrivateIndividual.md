@@ -50,7 +50,7 @@ Each individual can, subjectively, rank order all his current points of uneasine
 
 Likewise, individuals can rank order their subjective value for any mean, based on which better removes the uneasiness. This judgement is possible for goods in the same solution category, like a hungry man preferring steak over bananas. But this also works across categories, a man who is both hungry and thirsty will still prefer one over the other,  water or steak. 
 
-These are cardinal value scales, it is an absolute rank ordering. We cannot say by how much "units" one problem is worse, but only that one is generally worse than the other. This ordering of problems and means into a hierarchy is helpful in finding out what the most pressing problem is, the one that if alleviated, the uneasiness would reduce the most.
+These are ordinal value scales, it is an absolute rank ordering. We cannot say by how much "units" one problem is worse, but only that one is generally worse than the other. This ordering of problems and means into a hierarchy is helpful in finding out what the most pressing problem is, the one that if alleviated, the uneasiness would reduce the most.
 
 ## Choice
 
