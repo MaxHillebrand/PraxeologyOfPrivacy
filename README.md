@@ -40,7 +40,8 @@ Pull requests to fix typos, polish grammar and smoothen prose will be swiftly re
 -- Non-scarcity
 -- Consumption goods
 -- Production goods
-- Subjective marginal preference scale
+- Subjective preference scale
+- Law of marginal utility
 - Choice
 - Judgment
 - Time
