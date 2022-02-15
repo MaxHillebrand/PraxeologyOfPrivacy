@@ -22,7 +22,7 @@ Humans are in a constant state of uneasiness. Or in other words, humans always h
 
 ## Ends
 
-The general goal of humans is to alleviate uneasiness, to apply the solutions to the problems. This requires the creative spark to imagining a future where the problem is in fact solved.
+The general goal of humans is to alleviate uneasiness, to apply the solutions to the problems. Action is the deployment of scarce means to the attainment of the highest valued end. This requires the creative spark to imagining a future where the problem is in fact solved.
 
 ## Means
 
@@ -60,13 +60,17 @@ Scarce production goods are thus land, labor and capital goods. These can only b
 
 However, there is one additional non-scarce resource required in production: the technological idea or strategy. Without such plan, the actor would not know how to move from one stage of production to another. Neither would he know that the consumption good is actually desirable. A recipe is required for every action and stage of production. Yet contrary to the previous scarce production goods these ideas of how to transform goods are non-scarce and can be enjoyed across numerous production stages and even cannot be used up.
 
-## Subjective marginal preference
+## Subjective marginal preference scale
 
-Each individual can, subjectively, rank order all his current points of uneasiness, by taking two problems, and asking which of them is worse. When doing this with all current problems, we end up with a ordered list of the most serious problem on the top, and each following being less important.
+Each individual has the choice of using his available scarce resources for numerous alternative ends. The one he ends up choosing is his highest value goal, while all other alternatives are lover valued ends.
 
-Likewise, individuals can rank order their subjective value for any mean, based on which better removes the uneasiness. This judgement is possible for goods in the same solution category, like a hungry man preferring steak over bananas. But this also works across categories, a man who is both hungry and thirsty will still prefer one over the other,  water or steak. 
+Each individual can, subjectively, rank order all his ends, by taking two outcomes, and asking which of them is better. When doing this with all current problems, the result is an ordered list with the most valued end on the top, and each following being less important.
 
-These are ordinal value scales, it is an absolute rank ordering. We cannot say by how much "units" one problem is worse, but only that one is generally worse than the other. This ordering of problems and means into a hierarchy is helpful in finding out what the most pressing problem is, the one that if alleviated, the uneasiness would reduce the most.
+This is an ordinal value scale, an absolute rank ordering. We cannot say by how much "units" one end is more valuable, but only that one is generally more valued than the other. This ordering of ends and means into a hierarchy is helpful in finding out what the most pressing problem is, the problem that if alleviated, the uneasiness would reduce the most.
+
+Yet this subjective value scale differs for each individual, and even for the same individual across time. New ends can be introduced, while others become undesirable. The value judgment is in constant flux.
+
+The exact naming of this value scale is irrelevant, it can be problem solving, welfare, happiness, utility, or satisfaction. The important concept is that the different ends are ranked based on their quality for the individual.
 
 ## Choice
 
