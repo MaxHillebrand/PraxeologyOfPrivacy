@@ -38,11 +38,12 @@ Pull requests to fix typos, polish grammar and smoothen prose will be swiftly re
 - Means
 -- Scarcity
 -- Non-scarcity
+-- Consumption goods
 - Subjective marginal preference
 - Choice
 - Judgment
 - Time
--- Individual time preference
+- Time preference
 - Entrepreneurial capital allocation
 - Profitable capital accumulation
 

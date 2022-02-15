@@ -26,7 +26,7 @@ The general goal of humans is to alleviate uneasiness, to apply the solutions to
 
 ## Means
 
-Actors utilize means to achieve their ends. Means are the resources required in order to remove uneasiness. Without utilization of the means, the problem cannot be solved.
+Actors utilize means to achieve their ends. Goods are the means required in order to satisfy wants. Without utilization of the means, the problem cannot be solved.
 
 ### Scarcity
 
@@ -43,6 +43,11 @@ On the other hand, if the scarce good is abundant, then it is not subject to eco
 There are however, non-scarce means that can be utilized for as many tasks as desired, simultaneously and at infinite scale. Thus there is no question of for which task to apply the good, the good is available for any possible task. No opportunity cost, and no sacrifice.
 
 Information, patterns and ideas are non-scarce, they can be copied ad infinitum without taking away the use from anyone. The individual can continuously use the same strategy and information across solving different problems. He does not "forget" a piece of information after using it.
+
+### Consumption goods
+
+Those goods which are immediately and directly serviceable in the satisfaction of the actors wants are consumption goods. They are by themselves sufficient to alleviate the uneasiness of the actor, and their use leads to an immediate satisfaction.
+
 
 ## Subjective marginal preference
 
