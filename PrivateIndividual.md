@@ -74,11 +74,11 @@ The exact naming of this value scale is irrelevant, it can be problem solving, w
 
 ## Choice
 
-Choice, then, is at the core of what it means to be human. With numerous problems, but limited scarce resources, humans must inevitably make a value judgement and choose one out of many. Every single action, is the proof of that choice, and it implies the infinite number of alternatives that have been sacrificed.
+Choice, then, is at the core of what it means to be human. With numerous problems, but limited scarce resources, humans must inevitably make a value judgement and choose one out of many. Every single action, is the proof of that choice, and it implies the infinite number of alternatives that have been sacrificed. Whenever there is choice, there is exchange. The individual exchanges a current state of affair, for a future one that he deems superior. 
 
 ## Judgement
 
-Judgement is the other side of choice. After the act, individuals can judge themselves regarding weather or not their allocation of means has lead to their ends being achieved.
+Judgement is the other side of choice. After the act, individuals can judge themselves regarding weather or not their allocation of means has lead to their ends being achieved. The individual knows if his situation has improved, or worsened. This is a crucial ability to receive feedback across time and to qualify the success of a past exchange.
 
 ## Time
 
