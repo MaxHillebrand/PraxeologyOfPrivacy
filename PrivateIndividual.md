@@ -46,8 +46,11 @@ Information, patterns and ideas are non-scarce, they can be copied ad infinitum 
 
 ### Consumption goods
 
-Those goods which are immediately and directly serviceable in the satisfaction of the actors wants are consumption goods. They are by themselves sufficient to alleviate the uneasiness of the actor, and their use leads to an immediate satisfaction.
+Those goods which are immediately and directly serviceable in the satisfaction of the actors wants are consumption goods. These goods of a lesser order are by themselves sufficient to alleviate the uneasiness of the actor, and their use leads to an immediate satisfaction.
 
+### Production goods
+
+However, most human desires are so sophisticated and complex, that only very few natural resources are sufficient in themselves to be consumed directly. Instead, those goods which only indirectly serve human desire are production goods. These goods of a higher order can be shaped and transformed into consumption goods in the future, but that only by human action.
 
 ## Subjective marginal preference
 

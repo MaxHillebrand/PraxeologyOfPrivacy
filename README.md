@@ -39,6 +39,7 @@ Pull requests to fix typos, polish grammar and smoothen prose will be swiftly re
 -- Scarcity
 -- Non-scarcity
 -- Consumption goods
+-- Production goods
 - Subjective marginal preference
 - Choice
 - Judgment
