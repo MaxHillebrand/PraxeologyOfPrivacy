@@ -125,3 +125,13 @@ Individuals value goods based on the relation of it's position in the preference
 Because consumer goods have to be produced, it follows that the factors of production are naturally scarce too. Even though one factor can be potentially utilized in the production of numerous different consumer goods, the actor must choose one of many. A single producer good by itself cannot be transformed to a consumer good, but two or more producer goods must be combined in order to advance the production stage.
 
 This means, however, that for a given quantity of production factors, the actor tries to maximize the value of the produced outputs. This is regarding quantity, quality, and timeliness of production. Thus, for any quantity of production goods, there is one single optimal outcome where the subjective value is maximized.
+
+## Specialized factors
+
+Factors of production can be more or less specified. A highly specific factor can only be used to create one consumer good. Whereas a non-specific factor can be used in the production process of numerous different consumer goods.
+
+A highly specific factor of production might be a medicinal herb, that when extracted and distilled, can be used to cure stomach ache. But there is no known other medicinal benefit of this herb. A specific factor is thus only valued in relation to that one good it can produce, if the value of the product vanishes, then the factor likewise looses all of it's value.
+
+Whereas a nonspecific or convertible factor is for example iron, which can be shaped into swords, engines or jewelry. If any one of the products looses it's value, then the production good itself still retains it's value related to the other still valued products.
+
+If the value of a good changes, the value of it's specific factor will change more drastically than that of the generic factor. 

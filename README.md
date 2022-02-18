@@ -47,7 +47,7 @@ Pull requests to fix typos, polish grammar and smoothen prose will be swiftly re
 - Time
 - Time preference
 - Entrepreneurial capital allocation
-- Profitable capital accumulation
+- Specialized factors
 
 ## Part II: The Theory of the Revealed Individual
 
