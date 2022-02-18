@@ -48,6 +48,7 @@ Pull requests to fix typos, polish grammar and smoothen prose will be swiftly re
 - Time preference
 - Entrepreneurial capital allocation
 - Specialized factors
+- Labor and leisure
 
 ## Part II: The Theory of the Revealed Individual
 
