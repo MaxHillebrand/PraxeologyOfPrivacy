@@ -1,0 +1,318 @@
+{
+  "main": {
+    "id": "555378baefc04ff4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e06262a7774eed2f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01_PrivateIndividual.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "06e4265583387c44",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Labor and leisure.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "8799059e26eb91f5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Specialized factors.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "0b06739801906cc4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Entrepreneurial profit.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "c5c51b085f2cc5fb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Time Preference.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "53e952dffcb577e3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Time.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "27f18733f216bbfd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Judgement.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "d32daa8b0db0cbd1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Choice.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "9cbe2b418028b642",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Law of marginal utility.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "7631ea5f81c4768b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Subjective preference scale.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "f0797714973268df",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Production goods.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "e83e6a44f1cc45d9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Consumption goods.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "8c7fcebf52a4a3fb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Non-Scarcity.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "4963e7faecd7f428",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Scarcity.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "1cfdd35b380ea6d2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Means.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "1bbf713778bbbb23",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ends.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "413274ce4b6022f9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Uneasiness.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "f67d5705564df7b6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The Human Axioms.md",
+            "mode": "source",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fda65b77a7ffda0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a49951240e5aaf37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5597fd24f01b69c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "49eae9922b4dafc2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96a49f43b18ad250",
+    "type": "split",
+    "children": [
+      {
+        "id": "57cd8e018989e95f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfe828ef8d2424bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_PrivateIndividual.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "456f929dad23dd91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e06262a7774eed2f",
+  "lastOpenFiles": [
+    "01_PrivateIndividual.md",
+    "Consumption goods.md",
+    "Means.md",
+    "Time Preference.md",
+    "Labor and leisure.md",
+    "Specialized factors.md",
+    "Entrepreneurial profit.md",
+    "Time.md",
+    "Judgement.md",
+    "Law of marginal utility.md"
+  ]
+}
