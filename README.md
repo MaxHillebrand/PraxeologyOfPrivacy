@@ -49,6 +49,7 @@ Pull requests to fix typos, polish grammar and smoothen prose will be swiftly re
 - Entrepreneurial capital allocation
 - Specialized factors
 - Labor and leisure
+- Capital Formation
 
 ## Part II: The Theory of the Revealed Individual
 

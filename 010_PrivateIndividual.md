@@ -20,3 +20,4 @@
 [[Entrepreneurial profit]]
 [[Specialized factors]]
 [[Labor and leisure]]
+[[Capital Formation]]

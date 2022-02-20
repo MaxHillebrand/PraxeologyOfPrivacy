@@ -11,3 +11,4 @@ This means, however, that for a given quantity of production factors, the actor 
 [[Consumption goods]]
 [[Judgement]]
 [[Scarcity]]
+[[Capital Formation]]

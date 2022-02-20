@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b7aae5e4a4836e4f",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "ca50083b8958e8d5",
+        "id": "74d321a3babfcdf8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ends.md",
+            "file": "Capital Formation.md",
             "mode": "source",
             "source": true
           }
+        }
+      },
+      {
+        "id": "167ec8ca7d74cb13",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -57,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ends.md",
+                "file": "Capital Formation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ca50083b8958e8d5",
+  "active": "74d321a3babfcdf8",
   "lastOpenFiles": [
+    "Capital Formation.md",
+    "Entrepreneurial profit.md",
+    "010_PrivateIndividual.md",
+    "README.md",
     "Ends.md",
     "The Human Axioms.md",
     "Consumption goods.md",
     "Uneasiness.md",
     "Non-Scarcity.md",
-    "010_PrivateIndividual.md",
-    "Time.md",
-    "Law of marginal utility.md",
-    "README.md",
-    "Specialized factors.md"
+    "Time.md"
   ]
 }
