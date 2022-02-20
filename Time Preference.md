@@ -7,3 +7,8 @@ Therefor it is reasonable to assume, that all things equal, individuals prefer s
 The extend of time preference varies across individual, and there it is not objectively better or worse to have a higher or lower time preference. This is a human preference, which is subjective to every actor, and thus no qualitative judgement can be made.
 
 However, any actor displays at least a positive time preference. Every act leads to a realized satisfaction of ends, not deferred to the future. Thus only a non-actor can be considered to have a zero time preference.
+
+---
+[[Time]]
+[[Subjective preference scale]]
+[[Law of marginal utility]]

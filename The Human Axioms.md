@@ -9,3 +9,5 @@ Any attempt to refute the action axiom would in it self be an action, a behavior
 The argumentation axiom is that humans are capable of reasoning and discerning truth from falsehood. Lower forms of communication include sounds of expression like cries of pain, and warnings or signals of danger. Whereas higher communication entails descriptive language, which can be either true or false, and ultimately argumentation, which entails provable logic and explicit inferences. 
 
 Similarly to the action axiom, a claim that one cannot argue would in it of itself be an argument, proclaiming a certain fact to be true, while others are false. Notice that this conundrum is also present for the isolated individual, as alone the thought of "I cannot argue" is an internal argument as well. Furthermore, verbal behavior can only be understood and categorized as argumentation, if the observer has prior reflective cognition. In other words, an argument can only be observed by someone who knows how to argue.
+
+---

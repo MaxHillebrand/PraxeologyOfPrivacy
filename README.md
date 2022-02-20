@@ -30,7 +30,7 @@ Pull requests to fix typos, polish grammar and smoothen prose will be swiftly re
 - Free License Publication
 - Contributions
 
-## [Part I: The Theory of the Private Individual](PrivateIndividual.md)
+## Part I: The Theory of the Private Individual
 
 - Human Axioms
 - Uneasiness

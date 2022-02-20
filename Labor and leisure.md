@@ -11,3 +11,10 @@ The disutility of labor can further increase above the leisure foregone, in the 
 Whereas labor is always targeted towards the attainment of a final product, play is action which is purely for it's own sake. Play is thus, like leisure, a consumer's good with diminishing marginal utility.
 
 The question of what to labor on, depends on the disutility of leisure foregone and the dissatisfaction of the specific work itself, as well as the utility of the contribution towards the production of the desired goods. Every hour of labor will be spent on attaining that good with the highest marginal product.
+
+---
+[[Consumption goods]]
+[[Production goods]]
+[[Means]]
+[[Law of marginal utility]]
+[[Subjective preference scale]]

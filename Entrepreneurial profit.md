@@ -5,3 +5,9 @@ Individuals value goods based on the relation of it's position in the preference
 Because consumer goods have to be produced, it follows that the factors of production are naturally scarce too. Even though one factor can be potentially utilized in the production of numerous different consumer goods, the actor must choose one of many. A single producer good by itself cannot be transformed to a consumer good, but two or more producer goods must be combined in order to advance the production stage.
 
 This means, however, that for a given quantity of production factors, the actor tries to maximize the value of the produced outputs. This is regarding quantity, quality, and timeliness of production. Thus, for any quantity of production goods, there is one single optimal outcome where the subjective value is maximized.
+
+---
+[[Production goods]]
+[[Consumption goods]]
+[[Judgement]]
+[[Scarcity]]

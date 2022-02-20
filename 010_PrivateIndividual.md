@@ -1,6 +1,5 @@
-############
-## PART 1 ##
-############
+ PART l
+=======
 
 # The Theory of the Private Individual
 

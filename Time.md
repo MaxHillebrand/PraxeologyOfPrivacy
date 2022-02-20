@@ -9,3 +9,10 @@ Memory of past actions and their results guide current moment decision making. P
 Yet every act presupposes the imagination of future scenarios, with consideration of how the individual actor can causally influence these. Precisely because of this plentiful human imagination, the future becomes uncertain. Out of all the possible dreams, which single one will manifest as actuality?
 
 Once the act is done, there is no turning it back, time has passed irreversibly. Time travel is not possible, neither going back in time and choosing a different action, nor going forward in time to see the actual result of potential actions.
+
+---
+[[Time Preference]]
+[[Choice]]
+[[The Human Axioms]]
+[[Uneasiness]]
+[[Scarcity]]

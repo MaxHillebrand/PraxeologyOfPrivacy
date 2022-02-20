@@ -1,3 +1,8 @@
 # Choice
 
 Choice, then, is at the core of what it means to be human. With numerous problems, but limited scarce resources, humans must inevitably make a value judgement and choose one out of many. Every single action, is the proof of that choice, and it implies the infinite number of alternatives that have been sacrificed. Whenever there is choice, there is exchange. The individual exchanges a current state of affair, for a future one that he deems superior.
+
+---
+[[Scarcity]]
+[[Law of marginal utility]]
+[[Subjective preference scale]]

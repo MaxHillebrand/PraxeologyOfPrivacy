@@ -11,3 +11,8 @@ Goods can be interchangeable, if the actor has equal satisfaction with each of t
 The first unit of mean will be allocated to the highest value end on the individual's preference scale. The next available unit will be used to satisfy the second highest end. Each additional unit of mean will thus lead to the satisfaction of lower valuable ends. Contrarily with a decrease in available homogeneous means, the actor will stop the pursuit of the previously satisfied lowest valued end.
 
 The greater the supply of a good, the lower the marginal utility. The lower the supply of a good, the higher the marginal utility. When choosing between units of two good based on the supply available. The marginal utility is higher for the good which the actor prefers.
+
+---
+[[Subjective preference scale]]
+[[Scarcity]]
+[[Time Preference]]

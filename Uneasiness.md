@@ -1,3 +1,8 @@
 # Uneasiness
 
 Humans are in a constant state of uneasiness. Or in other words, humans always have problems. Just one example is the physical requirement to supply the body with food and energy to continue to function. But regardless of how many problems have already been solved, there are always more things that can be improved, there is always more potential. There is the universal tendency towards entropy and decay.
+
+--- 
+[[The Human Axioms]]
+[[Choice]]
+[[Ends]]

@@ -7,3 +7,8 @@ A highly specific factor of production might be a medicinal herb, that when extr
 Whereas a nonspecific or convertible factor is for example iron, which can be shaped into swords, engines or jewelry. If any one of the products looses it's value, then the production good itself still retains it's value related to the other still valued products.
 
 If the value of a good changes, the value of it's specific factor will change more drastically than that of the generic factor.
+
+---
+[[Means]]
+[[Scarcity]]
+[[Production goods]]]
