@@ -1,10 +1,10 @@
 # Subjective preference scale
 
-Each individual has the choice of using his available scarce resources for numerous alternative ends. The one he ends up choosing is his highest value goal, while all other alternatives are lover valued ends.
+Each individual has the choice of using his available scarce resources for numerous alternative ends. The one he chooses is his highest valued end, while all other alternatives are lower valued ends.
 
 Each individual can, subjectively, rank order all his ends, by taking two outcomes, and asking which of them is better. When doing this with all current problems, the result is an ordered list with the most valued end on the top, and each following being less important.
 
-This is an ordinal value scale, an absolute rank ordering. We cannot say by how much "units" one end is more valuable, but only that one is generally more valued than the other. This ordering of ends and means into a hierarchy is helpful in finding out what the most pressing problem is, the problem that if alleviated, the uneasiness would reduce the most.
+This is an ordinal value scale, an absolute rank ordering. We cannot say by how much "units" one end is more valuable, but only that one is generally more valued than the other. This ordering of ends and means into a hierarchy is helpful in finding out what the most pressing problem is, that problem that if alleviated, the uneasiness would reduce the most.
 
 Yet this subjective value scale differs for each individual, and even for the same individual across time. New ends can be introduced, while others become undesirable. The value judgment is in constant flux.
 

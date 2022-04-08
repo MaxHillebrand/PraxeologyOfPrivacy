@@ -14,7 +14,7 @@
 [[Subjective preference scale]]
 [[Law of marginal utility]]
 [[Choice]]
-[[Judgement]]
+[[Judgment]]
 [[Time]]
 [[Time Preference]]
 [[Entrepreneurial profit]]

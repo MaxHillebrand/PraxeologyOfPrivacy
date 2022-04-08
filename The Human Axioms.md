@@ -2,7 +2,7 @@
 
 There are two intertwined axioms at the very heart of our problem: humans act and humans argue.
 
-The action axiom states that men allocate means in order to satisfy ends. Men are in a current state of uneasiness, with the creative imagination of numerous future scenarios, capable of making a value judgement and rank ordering these scenarios, and being able to reason about the costs of achieving them. In hindsight, humans judge weather or not the goal has been achieved and the situation improved.
+The action axiom states that men allocate means in order to satisfy ends. Men are in a current state of uneasiness, with the creative imagination of numerous future scenarios, capable of making a value judgment to rank ordering these scenarios, and being able to reason about the costs of achieving them. In hindsight, humans judge whether or not the goal has been achieved and the situation improved.
 
 Any attempt to refute the action axiom would in it self be an action, a behavior targeted at a goal, requiring resources, considering the opportunity cost of alternatives, and ultimately subject to a judgment of success or failure. The action axiom is self-evident for actors, and non-actors are not capable of reaching participatory understanding of it.
 
