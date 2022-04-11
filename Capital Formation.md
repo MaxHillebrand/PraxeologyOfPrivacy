@@ -2,7 +2,7 @@
 
 Nature given resources are inherently limited in their available supply, and labor is limited in both it's supply and it's disutility of leisure forgone. In order to increase satisfaction of wants for a given period of time, the only method is to increase the quantity of capital goods employed.
 
-In a primitive scenario, where the actor has zero producers goods, all of his time is spent on either leisure, or on acquiring consumers' good directly. This limits the actor to satisfying only those wants which do not have rely on production, and only a small quantity of consumers' goods will be procured.
+In a primitive scenario, where the actor has zero producers goods, all of his time is spent on either leisure, or on acquiring consumers' good directly. This limits the actor to satisfying only those wants which do not have to rely on production, and only a small quantity of consumers' goods will be procured.
 
 In order to increase productivity, the actor must mingle his unaided labor with the available natural resources to create capital goods of lower order. This always comes at the expense of satisfying his direct wants of consumers' goods. The time spent on creating a producer good cannot be spent on leisure, or on acquiring direct consumers' goods.
 
