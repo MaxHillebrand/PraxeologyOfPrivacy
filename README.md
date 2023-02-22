@@ -40,16 +40,16 @@ Pull requests to fix typos, polish grammar and smoothen prose will be swiftly re
 -- Non-scarcity
 -- Consumption goods
 -- Production goods
+-- Specialized factors
 - Subjective preference scale
 - Law of marginal utility
 - Choice
 - Judgment
 - Time
 - Time preference
-- Entrepreneurial capital allocation
-- Specialized factors
 - Labor and leisure
 - Capital Formation
+- Entrepreneurial capital allocation
 
 ## Part II: The Theory of the Revealed Individual
 
