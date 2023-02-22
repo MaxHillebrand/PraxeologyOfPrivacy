@@ -1,6 +1,6 @@
 # Ends
 
-The general goal of humans is to alleviate uneasiness, to apply the solutions to their problems. Action is the deployment of scarce means to the attainment of the highest valued end. This requires the creative spark to imagining a future where the problem is in fact solved. Only individuals can have ends, there are no ends of groups or collectives. Individuals must have a possible mode of behavior to enable them to attain the ends. An end that is unachievable for the individual is not relevant for his mode of action. He must have an idea of how to achieve his end. 
+Ends are the ultimate goals and purposes of human action. They are subjective and determined by each individual, and are not inherent in nature or in any kind of collective entity. Ends are rooted in the individual's values, beliefs, and desires, and are therefore unique to each person. Human action is always taken with an end in mind, and it is only through the attainment of the end that the actor's uneasiness is alleviated. Ends are the ultimate determinant of what an individual deems valuable and worth pursuing, and the pursuit of these ends is what drives human action and creativity. Each individual must have a possible mode of behavior to achieve their ends. If an end is unachievable for the individual, it is not relevant to their actions. Therefore, individuals must have a clear idea of how to achieve their ends in order to act on them.
 
 ---
 [[Means]]
