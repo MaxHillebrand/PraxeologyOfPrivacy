@@ -1,16 +1,14 @@
 # Time
 
-Time then, is experienced within every action. There is a clear differentiation in the timeline of "before" and "after" the act. Specifically there is a period before the action started, a point where the action begins, a period of production during the action, a point at which the action stops, and a period after the action.
+Time plays a crucial role in every human action, as it is experienced within every act. The timeline of an action is divided into five parts: the period before the action starts, the moment the action begins, the period of production, the moment when the action stops, and the period after the action.
 
-The period of production is separated into working time and maturing time. Working time is when labor energy is expanded, whereas maturing time is a required waiting time, without direct exposure of labor.
+The production period is further divided into working time and maturing time. Working time is the period during which labor energy is expended, while maturing time is a waiting time required without direct labor exposure.
 
-Memory of past actions and their results guide the current moment decision making. Previous successful application of means to achieve ends are positively remembered and attempted again. Whereas those strategies and means that lead to a failure are noted for their disutility. Also the capital goods acquired in the past are still relevant in the current moment decision making.
+The actor's memory of past actions and their results guides decision-making in the present. Successful applications of means to achieve ends are positively remembered and attempted again, while strategies and means that led to failure are noted for their disutility.
 
-Yet every act presupposes the imagination of future scenarios, with consideration of how the individual actor can causally influence these. Because of this plentiful human imagination of what might be, the future becomes uncertain. Out of all the possible dreams, which single one will manifest as actuality?
+Every act also presupposes the imagination of future scenarios, with consideration of how the actor can causally influence them. Due to human imagination and the endless possibilities of the future, the future is uncertain. Once an action is done, it is irreversible, and time has passed irreversibly. There is no turning back time to choose a different action, nor is it possible to see the actual results of potential actions by traveling forward in time. This makes choices permanent, both the good and the bad ones. Therefore, time is a crucial component of the opportunity cost of action.
 
-Once the act is done, there is no turning it back, time has passed irreversibly. Time travel is not possible, neither going back in time and choosing a different action, nor going forward in time to see the actual result of potential actions. This makes choices permanent, both the good and the bad ones. Time is thus a crucial component of the opportunity cost of action.
-
-Furthermore, any individuals time is strictly limited in supply, a short span between birth and death. The number of actions is thus limited as well. The number of anticipated future actions is thus decreasing with every passing moment of life.
+Moreover, each individual has a strictly limited supply of time in their life, from birth to death. The number of actions an individual can take is limited. The number of anticipated future actions is thus decreasing with every passing moment of life. This realization highlights the importance of making the most of the limited time available, and therefore the necessity of making sound economic decisions.
 
 ---
 [[Time Preference]]
