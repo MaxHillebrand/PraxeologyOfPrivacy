@@ -1,6 +1,6 @@
 # Choice
 
-Choice, then, is at the core of what it means to be human. With numerous problems, but limited scarce resources, humans must inevitably make a value judgment and choose one out of many. Every single action is the proof of that choice, and it implies the infinite number of alternatives that have been sacrificed. Whenever there is choice, there is exchange. The individual exchanges a current state of affair, for a future one that he deems superior. The list of alternatives that were not pursued are the opportunity cost of action, those potential future scenarios that were disregarded and not manifested.
+At the core of human existence is the act of choice. With limited resources and numerous problems to solve, individuals must make value judgments and select one out of many options. Each action represents a choice and implies that an infinite number of alternative choices were sacrificed. Choice necessitates exchange, as individuals trade a current state of affairs for a future one that they believe is superior. The list of alternatives that were not pursued represents the opportunity cost of an action, or the potential future scenarios that were disregarded and left unrealized.
 
 ---
 [[Scarcity]]
