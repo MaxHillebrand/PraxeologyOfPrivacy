@@ -4,7 +4,7 @@
 
 ## Abstract
 
-Humans act, and humans argue. This is what we assume, and from there we can deduce a plethora of insights relevant to economics, ethics and strategy. The Individual is in a constant state of uneasiness, and has the creative spark to imagine multiple superior scenarios. The heroic entrepreneur acts, allocating scarce resources to manifest his most wanted desires. The Sovereign Individual claims his property, and has the power to defend what is his. In the darkness of Crypto Anarchy, cypherpunks control how to selectively reveal themselves to the world, thriving in the free realm of cyberspace. No trusted third party will secure Individual liberty. 
+Humans act, and humans argue. From these fundamental assumptions, we can deduce a plethora of insights relevant to economics, ethics, and strategy. The individual is in a constant state of uneasiness, with the creative spark to imagine multiple superior scenarios. The heroic entrepreneur acts, allocating scarce resources to manifest their most desired outcomes. The sovereign individual claims their property and has the power to defend what is rightfully theirs. In the darkness of crypto anarchy, cypherpunks control how to selectively reveal themselves to the world, thriving in the free realm of cyberspace. The Individual's liberty cannot be secured by a trusted third party.
 
 ## Contributions
 
